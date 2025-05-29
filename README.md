@@ -1,3 +1,5 @@
 # S.ROY2
-MY FIRST GIT-HUB
-AUTHOR- Swapnil Roy
+<br>
+<br>
+FIRST GIT-HUB
+by Swapnil Roy
